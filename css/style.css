@@ -1,0 +1,32 @@
+body {
+	background : #ffffff;
+	background : radial-gradient(ellipse at center, #0e0e0e 0%, #000 100%);
+	background : -moz-radial-gradient(#0e0e0e, #000);
+}
+.keepcentered {
+	position : absolute;
+	left : 50%;
+	top : 50%;
+	width : 480px;
+	height : 300px;
+	margin-left : -240px;
+	margin-top : -150px;
+	font-weight : 100;
+   	text-shadow: 0px 0px 10px #d64937;
+}
+body {
+    // font-family:  'Ubuntu', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	font-style : normal;
+	color : #d64937;
+	margin : 5px;
+    	text-shadow: 0px 0px 10px #d64937;
+}
+td, tr {
+	text-shadow: 0px 0px 10px #d64937;
+	width: 20%;
+	text-align: center;
+}
+a { font-weight: 100; color : #ccc;}
+a:hover{ color: #eee;}
+a:link { text-decoration : none; text-shadow: 0px 0px 0px #000; }

@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = iFargle@github.com:startpage.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
